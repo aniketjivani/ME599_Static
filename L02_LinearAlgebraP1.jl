@@ -17,8 +17,8 @@ end
 # ╔═╡ 51a640f1-7007-44ac-9751-655083073fab
 begin
 	# We activate our project environment, which disables the notebook's built in package manager.
-	using Pkg
-	Pkg.activate("../Project.toml")
+# 	using Pkg
+# 	Pkg.activate("../Project.toml")
 	using LinearAlgebra
 	using PlutoUI
 	using Colors
