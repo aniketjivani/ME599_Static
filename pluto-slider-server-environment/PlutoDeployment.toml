@@ -1,6 +1,6 @@
 [Export]
 baked_notebookfile = true
-slider-server-url="https://aniketjivani.github.io/ME599_Static/"
+slider_server_url="https://aniketjivani.github.io/ME599_Static/"
 
 
 [SliderServer]
