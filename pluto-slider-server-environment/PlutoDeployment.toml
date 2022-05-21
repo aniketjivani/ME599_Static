@@ -1,11 +1,15 @@
 [Export]
 baked_notebookfile = true
+slider-server-url="https://aniketjivani.github.io/ME599_Static/"
+
 
 [SliderServer]
-port = 8080
-host = "0.0.0.0"
+# port = 8080
+# host = "0.0.0.0"
+
+
 
 # You can also set Pluto's configuration here:
-[Pluto]
-[Pluto.compiler]
-threads = 2
+#[Pluto]
+#[Pluto.compiler]
+#threads = 2
